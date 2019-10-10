@@ -1,6 +1,7 @@
 {
+  "name": "gatsby-plugin-optional-chaining",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Jamey Gleason <james.p.gleason@gmail.com>",
   "license": "MIT",
   "workspaces": [
